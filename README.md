@@ -1,4 +1,4 @@
-# consumo
-aplicação simples para medir o consumo de veiculos
+# consumption
+simple application to measure vehicle consumption.
 
-SALVANDO PARA ME LEMBRAR DE TRADUZIR E MODIFICAR O PROJETO
+it's a simple code that I created at the beginning of my python learning, but I really like its functionality and I intend to bring it to a graphical interface.
